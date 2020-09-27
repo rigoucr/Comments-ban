@@ -1,0 +1,8 @@
+
+name: 'Comments ban'
+type: module
+description: 'Allow you to ban users from the commets system, keeping them active into the site.'
+core: ^8.8 || ^9
+package: Comments ban
+dependencies:
+  - comment
