@@ -5,6 +5,8 @@
  * Custom functionality for the comments_ban module.
  */
 
+use Drupal\Core\Form\FormStateInterface;
+
 /**
  * Implements hook_entity_type_alter().
  */
