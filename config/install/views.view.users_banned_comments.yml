@@ -185,7 +185,8 @@ display:
           hide_alter_empty: true
           action_title: Action
           include_exclude: exclude
-          selected_actions: {  }
+          selected_actions:
+            - unban_user_comment
           entity_type: user
           plugin_id: user_bulk_form
         name:
